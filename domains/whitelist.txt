@@ -126,6 +126,7 @@ pinterest.com
 placehold.it
 placeholdit.imgix.net
 players.brightcove.net
+playerauctions.com
 pricelist.skype.com
 prod.telemetry.ros.rockstargames.com
 products.office.com
