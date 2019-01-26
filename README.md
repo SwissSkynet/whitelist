@@ -28,5 +28,15 @@ cd whitelist/scripts
 sudo chmod +x whitelist.sh
 sudo ./whitelist.sh
 ```
+
+### Uninstall
+         
+***For whitelist.txt***     
+```
+cd whitelist
+sudo rm -r .git
+cd
+sudo rm -r whitelist
+```
              
 **Note: You don't have to clone the repo every time you need to update whitelist file. Navigate to `whitelist/scripts` and run it again `sudo ./whitelist.sh`**
