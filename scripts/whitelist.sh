@@ -12,7 +12,7 @@ sleep 0.1
 echo -e "\n"
 
 if [ "$(id -u)" != "0" ] ; then
-	echo "This script requires root permissions. Please run this as root!"
+	echo "This script requires root permissions. Please run this with sudo!"
 	exit 2
 fi
 
