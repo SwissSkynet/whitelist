@@ -22,6 +22,7 @@ brightcove.net
 bufferapp.com
 c.s-microsoft.com
 cdn.cloudflare.net
+cdn.discordapp.com
 cdn.embedly.com
 cdn.optimizely.com
 cdn.vidible.tv
