@@ -150,6 +150,7 @@ sa.symcb.com
 secure.avangate.com
 secure.brightcove.com
 secure.surveymonkey.com
+service.gmx.net
 services.sonarr.tv
 sharepoint.com
 skyhook.sonarr.tv
