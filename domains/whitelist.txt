@@ -94,6 +94,7 @@ intercom.io
 j.mp
 jquery.com
 jsdelivr.net
+js.ui-portal.de
 keystone.mwbsys.com
 lastfm-img2.akamaized.net
 licensing.xboxlive.com
