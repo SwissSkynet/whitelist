@@ -15,7 +15,7 @@ Want to report a new domain? Want to report exsisting one? Feel free to file an 
 ### Description      
        
 ***whitelist.txt***       
-This file contain domains that are safe to whitelist i.e it does not contain any tracking or advertising sites. Adding this file fixes many start problems after Pi-Hole install like YouTube watch history, videos on news sites and so on...
+This file contain domains that are safe to whitelist i.e it does not contain any tracking or advertising sites. Adding this file fixes many start problems after Pi-Hole install like Blocklist downloads, Android Phones, Kaspersky Update, Microsoft Login and so on...
         
 ***
            
@@ -28,8 +28,14 @@ cd whitelist/scripts
 sudo chmod +x whitelist.sh
 sudo ./whitelist.sh
 ```
+**You can also setup a Cronjob for a weekly update (as example set to Friday at 0700 AM)**
+```
+sudo crontab -e
+0 7 * * 5 sudo /root/whitelist/scripts/whitelist.sh
+```
+**Note: Be sure your Path is right. It can be different by used operating system**
 
-### Uninstall
+### Uninstall (Delete only. Edit your whitelist after)
          
 ***For whitelist.txt***     
 ```
@@ -37,6 +43,7 @@ cd whitelist
 sudo rm -r .git
 cd
 sudo rm -r whitelist
+sudo crontab -e       //Delete the Cronjob entry of you have set it.
 ```
              
 **Note: You don't have to clone the repo every time you need to update whitelist file. Navigate to `whitelist/scripts` and run it again `sudo ./whitelist.sh`**
