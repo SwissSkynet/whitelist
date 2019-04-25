@@ -35,7 +35,7 @@ sudo crontab -e
 ```
 **Note: Be sure your Path is right. It can be different by used operating system**
 
-### Uninstall (Delete only. Edit your whitelist after)
+### Uninstall
          
 ***For whitelist.txt***     
 ```
