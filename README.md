@@ -40,9 +40,7 @@ sudo crontab -e
 ***For whitelist.txt***     
 ```
 cd whitelist
-sudo rm -r .git
-cd
-sudo rm -r whitelist
+sudo git reset --hard
 sudo crontab -e       //Delete the Cronjob entry of you have set it.
 ```
              
