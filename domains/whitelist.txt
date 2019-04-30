@@ -86,6 +86,7 @@ ec-ns.sascdn.com
 ecn.dev.virtualearth.net
 edge.api.brightcove.com
 eds.xboxlive.com
+epicgames.com
 feeds.feedburner.com
 filament.io
 fonts.googleapis.com
@@ -101,6 +102,7 @@ github.io
 githubusercontent.com
 gog.com
 googleapis.com
+graphql.epicgames.com
 gravatar.com
 gstatic.com
 help.ui.xboxlive.com
@@ -128,6 +130,7 @@ licensing.mp.microsoft.com
 licensing.xboxlive.com
 linkedin.com
 linuxtracker.org
+live.adyen.com
 live.com
 login.live.com
 login.microsoftonline.com
@@ -224,6 +227,7 @@ ws.audioscrobbler.com
 www.bungie.net
 www.codemasters.com
 www.dataplicity.com
+www.epicgames.com
 www.g2a.com
 www.gamestar.de
 www.gigabyte.com
