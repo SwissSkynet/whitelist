@@ -86,6 +86,7 @@ ec-ns.sascdn.com
 ecn.dev.virtualearth.net
 edge.api.brightcove.com
 eds.xboxlive.com
+epicgames.com
 feeds.feedburner.com
 filament.io
 fonts.googleapis.com
