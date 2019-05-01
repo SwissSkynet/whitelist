@@ -86,7 +86,6 @@ ec-ns.sascdn.com
 ecn.dev.virtualearth.net
 edge.api.brightcove.com
 eds.xboxlive.com
-epicgames.com
 feeds.feedburner.com
 filament.io
 fonts.googleapis.com
@@ -216,11 +215,13 @@ video-stats.l.google.com
 videos.vidible.tv
 vimeo.com
 vivo.sx
+wargaming.net
 widget-cdn.rpxnow.com
 wikipedia.org
 win10.ipv6.microsoft.com
 winhelp2002.mvps.org
 wordpress.com
+worldoftanks.com
 worldoftanks.eu
 wp.com
 ws.audioscrobbler.com
@@ -244,6 +245,9 @@ www.synology.com
 www.teamspeak.com
 www.twitter.com
 www.videolan.org
+www.wargaming.net
+www.worldoftanks.com
+www.worldoftanks.eu
 www.worldoftrucks.com
 www.xboxlive.com
 www.xnxx.com
