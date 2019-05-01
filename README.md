@@ -28,6 +28,7 @@ cd whitelist/scripts
 sudo chmod +x whitelist.sh
 sudo ./whitelist.sh
 ```
+**Note: You don't have to clone the repo every time you need to update whitelist file. Navigate to `whitelist/scripts` and run it again `sudo ./whitelist.sh`**
 **You can also setup a Cronjob for a weekly update (as example set to Friday at 0700 AM)**
 ```
 sudo crontab -e
@@ -40,8 +41,9 @@ sudo crontab -e
 ***For whitelist.txt***     
 ```
 cd whitelist
-sudo git reset --hard
+sudo rm -r .git
+cd
+sudo rm -r whitelist
 sudo crontab -e       //Delete the Cronjob entry of you have set it.
 ```
-             
-**Note: You don't have to clone the repo every time you need to update whitelist file. Navigate to `whitelist/scripts` and run it again `sudo ./whitelist.sh`**
+**NOTE: Uninstall deletes only the git Files. Your whitelist in PiHole is untouched at the last git Update and can edit byself. Make sure also make always a Teleporter Backup just in Case.
