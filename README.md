@@ -46,4 +46,4 @@ cd
 sudo rm -r whitelist
 sudo crontab -e       //Delete the Cronjob entry of you have set it.
 ```
-**NOTE: Uninstall deletes only the git Files. Your whitelist in PiHole is untouched at the last git Update and can edit byself. Make sure also make always a Teleporter Backup just in Case.
+**NOTE: Uninstall deletes only the git Files. Your whitelist in PiHole is untouched at the last git Update and can edit byself. Make sure also make always a Teleporter Backup just in Case.** 
