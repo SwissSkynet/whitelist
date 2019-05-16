@@ -86,7 +86,7 @@ ec-ns.sascdn.com
 ecn.dev.virtualearth.net
 edge.api.brightcove.com
 eds.xboxlive.com
-epicgames.com
+events.gfe.nvidia.com
 feeds.feedburner.com
 filament.io
 fonts.googleapis.com
@@ -96,6 +96,8 @@ forum.mikrotik.com
 g.live.com
 geo-prod.do.dsp.mp.microsoft.com
 geo3.ggpht.com
+gfe.nvidia.com
+gfwsl.geforce.com
 giphy.com
 github.com
 github.io
@@ -138,6 +140,7 @@ m.hotmail.com
 manifest.googlevideo.com
 microsoft.com
 microsoftonline.com
+money.csgofloat.com
 msftncsi.com
 nexusrules.officeapps.live.com
 no-ip.com
@@ -145,6 +148,7 @@ notify.xboxlive.com
 npr-news.streaming.adswizz.com
 ns1.dropbox.com
 ns2.dropbox.com
+nvidia.tt.omtrdc.net
 ocsp.apple.com
 office.com
 office.net
@@ -224,6 +228,7 @@ winhelp2002.mvps.org
 wordpress.com
 worldoftanks.com
 worldoftanks.eu
+worldofwarcraft.com
 wp.com
 ws.audioscrobbler.com
 www.bungie.net
@@ -238,6 +243,7 @@ www.googleapis.com
 www.howtogeek.com
 www.icloud.com
 www.linuxtracker.org
+www.liveleak.com
 www.msftncsi.com
 www.no-ip.com
 www.playerauctions.com
@@ -246,9 +252,6 @@ www.synology.com
 www.teamspeak.com
 www.twitter.com
 www.videolan.org
-www.wargaming.net
-www.worldoftanks.com
-www.worldoftanks.eu
 www.worldoftrucks.com
 www.xboxlive.com
 www.xnxx.com
