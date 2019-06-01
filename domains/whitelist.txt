@@ -25,6 +25,7 @@ bing.com
 brightcove.net
 bs.to
 bufferapp.com
+bungie.net
 c.s-microsoft.com
 cdn.cloudflare.net
 cdn.discordapp.com
@@ -42,7 +43,9 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
+codeload.github.com
 crisp.chat
+cs.money
 cse.google.com
 csgo.exchange
 csgostash.com
@@ -81,12 +84,12 @@ dnl-17.geo.kaspersky.com
 dns.msftncsi.com
 drift.com
 driftt.com
+dyn.com
 dynupdate.no-ip.com
 ec-ns.sascdn.com
 ecn.dev.virtualearth.net
 edge.api.brightcove.com
 eds.xboxlive.com
-events.gfe.nvidia.com
 feeds.feedburner.com
 filament.io
 fonts.googleapis.com
@@ -96,8 +99,6 @@ forum.mikrotik.com
 g.live.com
 geo-prod.do.dsp.mp.microsoft.com
 geo3.ggpht.com
-gfe.nvidia.com
-gfwsl.geforce.com
 giphy.com
 github.com
 github.io
@@ -148,7 +149,6 @@ notify.xboxlive.com
 npr-news.streaming.adswizz.com
 ns1.dropbox.com
 ns2.dropbox.com
-nvidia.tt.omtrdc.net
 ocsp.apple.com
 office.com
 office.net
@@ -193,6 +193,7 @@ srv01.codefusion.technology
 srv02.codefusion.technology
 srv03.codefusion.technology
 ssl.p.jwpcdn.com
+stats.streamlabs.com
 steamdb.info
 steampowered.com
 store.steampowered.com
@@ -240,6 +241,7 @@ www.gamestar.de
 www.gigabyte.com
 www.gmx.net
 www.googleapis.com
+www.heise.de
 www.howtogeek.com
 www.icloud.com
 www.linuxtracker.org
