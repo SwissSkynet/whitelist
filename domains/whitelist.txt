@@ -22,6 +22,7 @@ attestation.xboxlive.com
 aus5.mozilla.org
 ax.phobos.apple.com.edgesuite.net
 bing.com
+bitskins.com
 brightcove.net
 bs.to
 bufferapp.com
@@ -90,6 +91,7 @@ ec-ns.sascdn.com
 ecn.dev.virtualearth.net
 edge.api.brightcove.com
 eds.xboxlive.com
+events.gfe.nvidia.com
 feeds.feedburner.com
 filament.io
 fonts.googleapis.com
@@ -99,6 +101,8 @@ forum.mikrotik.com
 g.live.com
 geo-prod.do.dsp.mp.microsoft.com
 geo3.ggpht.com
+gfe.nvidia.com
+gfwsl.geforce.com
 giphy.com
 github.com
 github.io
@@ -185,6 +189,7 @@ secure.avangate.com
 secure.brightcove.com
 secure.surveymonkey.com
 service.gmx.net
+services.gfe.nvidia.com
 sharepoint.com
 skyhook.sonarr.tv
 someonewhocares.org
@@ -212,6 +217,7 @@ thetvdb.com
 tinyurl.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
+tt1.openload.co
 twimg.com
 twitter.com
 unsplash.com
